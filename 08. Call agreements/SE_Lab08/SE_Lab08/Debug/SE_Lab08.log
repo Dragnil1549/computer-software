@@ -1,0 +1,3 @@
+﻿  Call.cpp
+D:\кпо\Software-engineering\08. Call agreements\SE_Lab08\SE_Lab08\Call.cpp(6,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  SE_Lab08.vcxproj -> D:\кпо\Software-engineering\08. Call agreements\SE_Lab08\Debug\SE_Lab08.exe

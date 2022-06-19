@@ -1,0 +1,3 @@
+﻿  Dictionary.cpp
+D:\кпо\Software-engineering\07._Static_library\SE_Lab07S\SE_Lab07L\Dictionary.cpp(78): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+  SE_Lab07L.vcxproj -> D:\кпо\Software-engineering\07._Static_library\SE_Lab07S\Debug\SE_Lab07L.lib

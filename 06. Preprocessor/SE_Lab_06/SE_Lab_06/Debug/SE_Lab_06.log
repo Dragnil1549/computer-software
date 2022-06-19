@@ -1,0 +1,4 @@
+﻿  Dictionary.cpp
+D:\кпо\Software-engineering\06. Preprocessor\SE_Lab_06\SE_Lab_06\Debug\Dictionary.cpp(98,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\кпо\Software-engineering\06. Preprocessor\SE_Lab_06\SE_Lab_06\Debug\Dictionary.cpp(56): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+  SE_Lab_06.vcxproj -> D:\кпо\Software-engineering\06. Preprocessor\SE_Lab_06\Debug\SE_Lab_06.exe

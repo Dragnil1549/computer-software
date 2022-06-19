@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\кпо\Software-engineering\03. Fundamental data type\Lab_03\Lab_03\Source.cpp(12,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\кпо\Software-engineering\03. Fundamental data type\Lab_03\Lab_03\Source.cpp(18,16): warning C4309: инициализация: усечение константного значения
+D:\кпо\Software-engineering\03. Fundamental data type\Lab_03\Lab_03\Source.cpp(39,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\кпо\Software-engineering\03. Fundamental data type\Lab_03\Lab_03\Source.cpp(35): warning C4723: возможное деление на 0
+D:\кпо\Software-engineering\03. Fundamental data type\Lab_03\Lab_03\Source.cpp(37): warning C4723: возможное деление на 0
+  Lab_03.vcxproj -> D:\кпо\Software-engineering\03. Fundamental data type\Lab_03\Debug\Lab_03.exe

@@ -1,0 +1,3 @@
+﻿  Source2.cpp
+D:\кпо\Software-engineering\05. Custom data types\lab_05\lab_05_2\Source2.cpp(47,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab_05_2.vcxproj -> D:\кпо\Software-engineering\05. Custom data types\lab_05\Debug\lab_05_2.exe

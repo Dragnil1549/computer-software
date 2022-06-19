@@ -1,0 +1,28 @@
+﻿Сборка начата 29.03.2022 13:31:33.
+Уровень детализации журнала: Normal.     1>Проект "D:\Labs\КПО\04. Call stack\04_lab\04_lab\04_lab.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\04_lab.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt Source.cpp
+         Source.cpp
+     1>D:\Labs\КПО\04. Call stack\04_lab\04_lab\Source.cpp(61,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>D:\Labs\КПО\04. Call stack\04_lab\04_lab\Source.cpp(53): warning C4715: is_correct_date: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Labs\КПО\04. Call stack\04_lab\Debug\04_lab.exe" /INCREMENTAL /ILK:"Debug\04_lab.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Labs\КПО\04. Call stack\04_lab\Debug\04_lab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Labs\КПО\04. Call stack\04_lab\Debug\04_lab.lib" /MACHINE:X86 Debug\Source.obj
+         04_lab.vcxproj -> D:\Labs\КПО\04. Call stack\04_lab\Debug\04_lab.exe
+       FinalizeBuildStatus:
+         Файл "Debug\04_lab.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\04_lab.tlog\04_lab.lastbuildstate".
+     1>Сборка проекта "D:\Labs\КПО\04. Call stack\04_lab\04_lab\04_lab.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Labs\КПО\04. Call stack\04_lab\04_lab\04_lab.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Labs\КПО\04. Call stack\04_lab\04_lab\Source.cpp(61,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+         D:\Labs\КПО\04. Call stack\04_lab\04_lab\Source.cpp(53): warning C4715: is_correct_date: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:00.79
